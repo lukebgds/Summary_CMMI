@@ -1,6 +1,6 @@
 # Capability Maturity Model Integration (CMMI)
 
-[![Licença](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://github.com/lukebgds/resumoApiREST/blob/main/LICENSE)
+[![Licença](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://github.com/lukebgds/resumoCMMI/blob/main/LICENSE)
 
 O **CMMI (Modelo de Maturidade de Capacidade de Integração)**, é reconhecido como um modelo para melhoria de processos organizacionais, especialmente em áreas como desenvolvimento de software e engenharia de sistemas. Fornece orientações e práticas para aumentar a maturidade operacional do seu negócio. 
 
