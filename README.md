@@ -1,12 +1,15 @@
-# Capability Maturity Model Integration (CMMI)
+# Resumo - Capability Maturity Model Integration (CMMI)
 
 [![Licença](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://github.com/lukebgds/resumoCMMI/blob/main/LICENSE)
 
-O **CMMI (Modelo de Maturidade de Capacidade de Integração)**, é reconhecido como um modelo para melhoria de processos organizacionais, especialmente em áreas como desenvolvimento de software e engenharia de sistemas. Fornece orientações e práticas para aumentar a maturidade operacional do seu negócio. 
+O **CMMI (Modelo de Maturidade de Capacidade de Integração)**, é reconhecido como um modelo para melhoria de processos organizacionais, especialmente em áreas como desenvolvimento de software e engenharia de sistemas. Fornece orientações e práticas para aumentar a maturidade operacional do seu negócio.
 
-Uma de suas principais características é a ênfase na melhoria contínua, incentivando as organizações a melhorarem continuamente seus processos em busca da excelência. O CMMI enfatiza a qualidade do processo e facilita a medição e análise para aumentar a eficiência. A sua estrutura é escalável e pode ser gradualmente melhorada até à maturidade e adaptada a diferentes contextos organizacionais.
+Uma de suas principais características é a ênfase na melhoria contínua, incentivando as organizações a melhorarem continuamente seus processos em busca da excelência. O CMMI enfatiza a qualidade do processo e facilita a medição e análise para aumentar a eficiência. A sua estrutura é escalável e pode ser gradualmente melhorada até à maturidade e adaptada a diferentes contextos organizacionais. O **CMMI DEV** uma variante do CMMI que se concentra sobretudo no produção de software, fornecendo um conjunto de praticas recomendadas e diretrizes para melhorar os processos de desenvolvimento de software em sua organiza. O "DEV" no CMMI-DEV significa "Development" e refere-se ao escopo específico daquele modelo específico.
+
+As PAs (Process Areas) no CMMI representam as atividades específicas necessárias para atingir objetivos específicos. Cada AP descreve um aspecto de um processo que, quando implementado de forma eficaz, melhora o desempenho da organização naquela área específica. Por exemplo, alguns dos PAs do CMMI-DEV incluem gerenciamento de requisitos, planejamento de projetos e garantia de qualidade do produto.
 
 #### O CMMI é expresso principalmente de duas maneiras: ``Estagiada e Contínua``. 
+
 - Na representação estagiada, a área de processo é dividida em cinco níveis de maturidade, cada um baseado nos princípios e resultados da fase anterior. Isto permite uma transição gradual de um nível inicial de processos informais  para uma otimização contínua no pico da maturidade. Cada etapa estabelece padrões claros que levam sua organização a operações mais sofisticadas e consistentes. 
 - A visualização contínua, por outro lado,  oferece uma abordagem mais flexível. As empresas podem selecionar áreas de processo específicas para melhoria, independentemente do nível de cargo. Esta flexibilidade permite-lhe adaptar-se às necessidades imediatas do seu negócio e focar-se em áreas específicas de melhoria sem  seguir uma ordem fixa. Isto permite uma abordagem mais personalizada que permite às empresas adaptar os seus esforços de melhoria às suas necessidades e prioridades atuais.
 
