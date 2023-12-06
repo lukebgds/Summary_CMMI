@@ -11,3 +11,9 @@ Uma de suas principais características é a ênfase na melhoria contínua, ince
 - A visualização contínua, por outro lado,  oferece uma abordagem mais flexível. As empresas podem selecionar áreas de processo específicas para melhoria, independentemente do nível de cargo. Esta flexibilidade permite-lhe adaptar-se às necessidades imediatas do seu negócio e focar-se em áreas específicas de melhoria sem  seguir uma ordem fixa. Isto permite uma abordagem mais personalizada que permite às empresas adaptar os seus esforços de melhoria às suas necessidades e prioridades atuais.
 
 Comparado ao CMM anterior, o CMMI é mais abrangente e flexível. Seu escopo vai além do desenvolvimento de software e se estende a áreas como serviços, compras e gerenciamento de projetos. Também enfatiza a adaptabilidade e a integração de processos, afastando-se da abordagem mais rígida e sequencial do CMM para alcançar a maturidade. Estas diferenças destacam a evolução do CMM em direção ao CMMI, que proporciona uma estrutura mais dinâmica que pode ser aplicada a diferentes contextos organizacionais.
+
+### Autor do resumo:
+
+- **Lucas Benício Gusmão da Silva** - 01506393 
+- **Turma:** 4MB
+- **Horário:** Manhã
