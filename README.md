@@ -15,6 +15,8 @@ As PAs (Process Areas) no CMMI ou CMMI-DEV, representam as atividades específic
 
 Comparado ao CMM anterior, o CMMI é mais abrangente e flexível. Seu escopo vai além do desenvolvimento de software e se estende a áreas como serviços, compras e gerenciamento de projetos. Também enfatiza a adaptabilidade e a integração de processos, afastando-se da abordagem mais rígida e sequencial do CMM para alcançar a maturidade. Estas diferenças destacam a evolução do CMM em direção ao CMMI, que proporciona uma estrutura mais dinâmica que pode ser aplicada a diferentes contextos organizacionais.
 
+---
+
 ### Autor do resumo:
 
 - **Lucas Benício Gusmão da Silva** - 01506393 
