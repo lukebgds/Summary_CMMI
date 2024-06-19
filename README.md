@@ -19,6 +19,4 @@ Comparado ao CMM anterior, o CMMI é mais abrangente e flexível. Seu escopo vai
 
 ### Autor do resumo:
 
-- **Lucas Benício Gusmão da Silva** - 01506393 
-- **Turma:** 4MB
-- **Horário:** Manhã
+- **Lucas Benício Gusmão da Silva** -
