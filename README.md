@@ -22,17 +22,17 @@ O CMMI-DEV orienta as organizações a estabelecerem processos de desenvolviment
 
 O CMMI é expresso principalmente em duas representações: **Estagiada** e **Contínua**.
 
-### Representação Estagiada
+#### Representação Estagiada
 
 - Na abordagem estagiada, as áreas de processo são organizadas em **cinco níveis de maturidade**. Cada nível representa um estágio de evolução organizacional, começando com processos informais e caóticos no nível inicial (Nível 1) até alcançar a **otimização contínua** no nível mais alto (Nível 5).
 - Este modelo promove uma transição gradual, onde cada nível de maturidade é construído sobre os princípios e resultados do nível anterior, garantindo uma evolução consistente e sustentável. As organizações que seguem essa representação buscam uma **melhoria global e estruturada** de seus processos, progredindo de forma sequencial.
 
-### Representação Contínua
+#### Representação Contínua
 
 - A abordagem contínua oferece uma **flexibilidade maior**, permitindo que as organizações selecionem e melhorem áreas de processo específicas de acordo com suas necessidades e prioridades.
 - Em vez de seguir uma sequência rígida de níveis de maturidade, as organizações podem escolher focar em **áreas críticas de melhoria** que mais impactam suas operações no momento. Isso facilita uma abordagem **personalizada**, onde o progresso pode ser medido em diferentes dimensões de maturidade, como **capacidade e desempenho** de processos individuais.
 
-### Evolução do CMM para o CMMI
+## Evolução do CMM para o CMMI
 
 Comparado ao seu antecessor, o **CMM (Capability Maturity Model)**, o CMMI representa uma evolução significativa. Enquanto o CMM era mais restrito e focado especificamente no desenvolvimento de software, o CMMI ampliou seu escopo para incluir áreas como **serviços**, **compras**, e **gerenciamento de projetos**.
 
