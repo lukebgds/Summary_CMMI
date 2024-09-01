@@ -2,18 +2,41 @@
 
 [![Licença](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://github.com/lukebgds/Summary_CMMI/blob/main/LICENSE)
 
-O **CMMI (Modelo de Maturidade de Capacidade de Integração)**, é reconhecido como um modelo para melhoria de processos organizacionais, especialmente em áreas como desenvolvimento de software e engenharia de sistemas. Fornece orientações e práticas para aumentar a maturidade operacional do seu negócio.
+# CMMI (Capability Maturity Model Integration)
 
-Uma de suas principais características é a ênfase na melhoria contínua, incentivando as organizações a melhorarem continuamente seus processos em busca da excelência. O CMMI enfatiza a qualidade do processo e facilita a medição e análise para aumentar a eficiência. A sua estrutura é escalável e pode ser gradualmente melhorada até à maturidade e adaptada a diferentes contextos organizacionais. O **CMMI-DEV** uma variante do CMMI que se concentra sobretudo no produção de software, fornecendo um conjunto de praticas recomendadas e diretrizes para melhorar os processos de desenvolvimento de software em sua organiza. O "DEV" no CMMI-DEV significa "Development" e refere-se ao escopo específico daquele modelo específico.
+O **CMMI (Capability Maturity Model Integration)**, ou Modelo de Integração de Maturidade de Capacidades, é amplamente reconhecido como uma estrutura de excelência para a melhoria de processos organizacionais. Desenvolvido inicialmente para o setor de desenvolvimento de software e engenharia de sistemas, o CMMI foi projetado para auxiliar as organizações a aumentar a maturidade de seus processos, promovendo melhorias contínuas e consistentes.
 
-As PAs (Process Areas) no CMMI ou CMMI-DEV, representam as atividades específicas necessárias para atingir objetivos específicos. Cada AP descreve um aspecto de um processo que, quando implementado de forma eficaz, melhora o desempenho da organização naquela área específica. Por exemplo, alguns dos PAs do CMMI-DEV incluem gerenciamento de requisitos, planejamento de projetos e garantia de qualidade do produto.
+## Principais Características do CMMI
 
-#### O CMMI é expresso principalmente de duas maneiras: ``Estagiada e Contínua``. 
+Uma das principais características do CMMI é sua ênfase na **melhoria contínua**. O modelo incentiva as organizações a aprimorarem continuamente seus processos, ajudando a alcançar padrões elevados de qualidade e eficiência. Através de um conjunto estruturado de práticas recomendadas, o CMMI facilita a medição e análise dos processos, permitindo que as organizações identifiquem e corrijam deficiências de forma sistemática.
 
-- Na representação estagiada, a área de processo é dividida em cinco níveis de maturidade, cada um baseado nos princípios e resultados da fase anterior. Isto permite uma transição gradual de um nível inicial de processos informais  para uma otimização contínua no pico da maturidade. Cada etapa estabelece padrões claros que levam sua organização a operações mais sofisticadas e consistentes. 
-- A visualização contínua, por outro lado,  oferece uma abordagem mais flexível. As empresas podem selecionar áreas de processo específicas para melhoria, independentemente do nível de cargo. Esta flexibilidade permite-lhe adaptar-se às necessidades imediatas do seu negócio e focar-se em áreas específicas de melhoria sem  seguir uma ordem fixa. Isto permite uma abordagem mais personalizada que permite às empresas adaptar os seus esforços de melhoria às suas necessidades e prioridades atuais.
+O CMMI é uma estrutura **escalável** e **flexível**, que pode ser adaptada a diferentes contextos organizacionais, seja no desenvolvimento de software, engenharia de sistemas, ou em outras áreas como serviços e gestão de projetos. Sua flexibilidade permite que as organizações implementem melhorias de acordo com suas necessidades específicas, sem a necessidade de seguir uma abordagem rígida.
 
-Comparado ao CMM anterior, o CMMI é mais abrangente e flexível. Seu escopo vai além do desenvolvimento de software e se estende a áreas como serviços, compras e gerenciamento de projetos. Também enfatiza a adaptabilidade e a integração de processos, afastando-se da abordagem mais rígida e sequencial do CMM para alcançar a maturidade. Estas diferenças destacam a evolução do CMM em direção ao CMMI, que proporciona uma estrutura mais dinâmica que pode ser aplicada a diferentes contextos organizacionais.
+## CMMI-DEV: Foco no Desenvolvimento de Software
+
+Dentro do CMMI, existe uma variante específica chamada **CMMI-DEV** (CMMI for Development), que se concentra especialmente no desenvolvimento de software. O "DEV" refere-se ao escopo específico desta versão, que fornece um conjunto abrangente de práticas recomendadas e diretrizes para melhorar os processos de desenvolvimento de software.
+
+O CMMI-DEV orienta as organizações a estabelecerem processos de desenvolvimento de software robustos, que garantam a entrega de produtos de alta qualidade, dentro do prazo e do orçamento estipulados. As práticas abordadas no CMMI-DEV incluem, entre outras, o **gerenciamento de requisitos**, o **planejamento de projetos**, e a **garantia de qualidade do produto**. Essas áreas de processo (PAs - Process Areas) são cruciais para a eficiência e eficácia do desenvolvimento de software.
+
+## Representações do CMMI: Estagiada e Contínua
+
+O CMMI é expresso principalmente em duas representações: **Estagiada** e **Contínua**.
+
+### Representação Estagiada
+
+- Na abordagem estagiada, as áreas de processo são organizadas em **cinco níveis de maturidade**. Cada nível representa um estágio de evolução organizacional, começando com processos informais e caóticos no nível inicial (Nível 1) até alcançar a **otimização contínua** no nível mais alto (Nível 5).
+- Este modelo promove uma transição gradual, onde cada nível de maturidade é construído sobre os princípios e resultados do nível anterior, garantindo uma evolução consistente e sustentável. As organizações que seguem essa representação buscam uma **melhoria global e estruturada** de seus processos, progredindo de forma sequencial.
+
+### Representação Contínua
+
+- A abordagem contínua oferece uma **flexibilidade maior**, permitindo que as organizações selecionem e melhorem áreas de processo específicas de acordo com suas necessidades e prioridades.
+- Em vez de seguir uma sequência rígida de níveis de maturidade, as organizações podem escolher focar em **áreas críticas de melhoria** que mais impactam suas operações no momento. Isso facilita uma abordagem **personalizada**, onde o progresso pode ser medido em diferentes dimensões de maturidade, como **capacidade e desempenho** de processos individuais.
+
+## Evolução do CMM para o CMMI
+
+Comparado ao seu antecessor, o **CMM (Capability Maturity Model)**, o CMMI representa uma evolução significativa. Enquanto o CMM era mais restrito e focado especificamente no desenvolvimento de software, o CMMI ampliou seu escopo para incluir áreas como **serviços**, **compras**, e **gerenciamento de projetos**.
+
+O CMMI enfatiza a **adaptabilidade** e a **integração de processos**, permitindo que diferentes áreas de uma organização trabalhem de forma coordenada em busca da melhoria contínua. Essa abordagem integrada e menos rígida faz do CMMI uma ferramenta poderosa para organizações que buscam atingir altos níveis de maturidade de maneira adaptada às suas realidades operacionais.
 
 ---
 
